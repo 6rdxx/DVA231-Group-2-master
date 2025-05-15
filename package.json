@@ -1,0 +1,14 @@
+{
+  "name": "quizzledge",
+  "version": "1.0.0",
+  "description": "QuizZLedge Quiz Application",
+  "main": "index.php",
+  "scripts": {
+    "start": "php -S localhost:8000"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+} 
